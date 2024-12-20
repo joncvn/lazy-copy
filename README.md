@@ -1,6 +1,6 @@
 # Lazy Copy
 
->Because wasting time on automation feels way more productive.
+>*Because wasting time on automation feels way more productive.*
 
 This project provides a Bash script to automate the detection, mounting, and file transfer process for USB devices. It includes logging, partition selection, and data validation.
 
